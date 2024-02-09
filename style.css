@@ -9,7 +9,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 200vh;
+    min-height: 100vh;
 }
 
 .envelope-wrapper {
@@ -46,7 +46,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 200%;
     background-color: #f8f8f8;
     z-index: -1;
 }
